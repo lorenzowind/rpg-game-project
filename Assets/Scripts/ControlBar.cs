@@ -17,10 +17,12 @@ public class ControlBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space)) {
+        if (Input.GetKey(KeyCode.Space)) 
+        {
             imgBar.fillAmount -= 0.1f * Time.deltaTime;
         } 
-        else if (imgBar.fillAmount < 1) {
+        else if (imgBar.fillAmount < 1) 
+        {
             imgBar.fillAmount += 0.3f * Time.deltaTime;
         }
         

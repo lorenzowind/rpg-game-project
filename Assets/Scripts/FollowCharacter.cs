@@ -17,8 +17,7 @@ public class FollowCharacter : MonoBehaviour
         minTile = tilemap.CellToWorld(tilemap.cellBounds.min);
         maxTile = tilemap.CellToWorld(tilemap.cellBounds.max);
 
-        Limits(minTile, maxTile);
-        
+        Limits(minTile, maxTile);  
     }
 
     // Update is called once per frame
