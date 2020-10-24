@@ -5,6 +5,7 @@ public class MoveCharacter : MonoBehaviour
 
     private float velocity;
     private Vector2 direction;
+    private Rigidbody2D characterRigidBody;
     public Animator anim;
 
     // Start is called before the first frame update
@@ -12,13 +13,14 @@ public class MoveCharacter : MonoBehaviour
     {
         velocity = 3;
         direction = Vector2.zero;
+        characterRigidBody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
         CharacterInput();
-        transform.Translate(direction * velocity * Time.deltaTime);
+        // transform.Translate(direction * velocity * Time.deltaTime);
 
         if (direction.x != 0 || direction.y != 0)
         {
@@ -28,6 +30,14 @@ public class MoveCharacter : MonoBehaviour
         {
             anim.SetLayerWeight(1, 0);
         }
+    }
+
+    void FixedUpdate()
+    {
+        characterRigidBody.MovePosition(
+            characterRigidBody.position + direction * velocity * Time.deltaTime
+        );
+
     }
 
     void CharacterInput()

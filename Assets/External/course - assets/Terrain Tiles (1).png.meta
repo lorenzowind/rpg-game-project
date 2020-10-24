@@ -1,7 +1,163 @@
 fileFormatVersion: 2
 guid: d5b7f7d598451e144a72663398cdcb17
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -665366354558246634
+    second: Terrain Tiles (1)_0
+  - first:
+      213: 3154009584201118398
+    second: Terrain Tiles (1)_1
+  - first:
+      213: -3190104210576507082
+    second: Terrain Tiles (1)_2
+  - first:
+      213: 5629666294964969500
+    second: Terrain Tiles (1)_3
+  - first:
+      213: -4521448636489075502
+    second: Terrain Tiles (1)_4
+  - first:
+      213: 1782841407288062453
+    second: Terrain Tiles (1)_5
+  - first:
+      213: -3633862663521803338
+    second: Terrain Tiles (1)_6
+  - first:
+      213: -9038384383417032520
+    second: Terrain Tiles (1)_7
+  - first:
+      213: -4536456218577924516
+    second: Terrain Tiles (1)_8
+  - first:
+      213: -3038159367015657064
+    second: Terrain Tiles (1)_9
+  - first:
+      213: 8472956076835879727
+    second: Terrain Tiles (1)_10
+  - first:
+      213: -8788837075373965796
+    second: Terrain Tiles (1)_11
+  - first:
+      213: 5871985862882190011
+    second: Terrain Tiles (1)_12
+  - first:
+      213: 3020241620725509154
+    second: Terrain Tiles (1)_13
+  - first:
+      213: -7085217349742647993
+    second: Terrain Tiles (1)_14
+  - first:
+      213: 2411745646253751099
+    second: Terrain Tiles (1)_15
+  - first:
+      213: -3286809763990304464
+    second: Terrain Tiles (1)_16
+  - first:
+      213: 6912008323029052524
+    second: Terrain Tiles (1)_17
+  - first:
+      213: 5935858350102936828
+    second: Terrain Tiles (1)_18
+  - first:
+      213: 2750772444767240781
+    second: Terrain Tiles (1)_19
+  - first:
+      213: -4933236537327067080
+    second: Terrain Tiles (1)_20
+  - first:
+      213: 6839464655393091715
+    second: Terrain Tiles (1)_21
+  - first:
+      213: 6459249251086064011
+    second: Terrain Tiles (1)_22
+  - first:
+      213: 7444010307847955678
+    second: Terrain Tiles (1)_23
+  - first:
+      213: -3902242700473792036
+    second: Terrain Tiles (1)_24
+  - first:
+      213: 1559893746792834188
+    second: Terrain Tiles (1)_25
+  - first:
+      213: -6110435606824989237
+    second: Terrain Tiles (1)_26
+  - first:
+      213: -5974714264805478814
+    second: Terrain Tiles (1)_27
+  - first:
+      213: 8514412864335407988
+    second: Terrain Tiles (1)_28
+  - first:
+      213: 519346695986762516
+    second: Terrain Tiles (1)_29
+  - first:
+      213: 8546900692896113459
+    second: Terrain Tiles (1)_30
+  - first:
+      213: -1280096913938386879
+    second: Terrain Tiles (1)_31
+  - first:
+      213: 8484264718493070716
+    second: Terrain Tiles (1)_32
+  - first:
+      213: 3769131271434067963
+    second: Terrain Tiles (1)_33
+  - first:
+      213: -289105788219176197
+    second: Terrain Tiles (1)_34
+  - first:
+      213: -7956845768658475917
+    second: Terrain Tiles (1)_35
+  - first:
+      213: 1664079836472928215
+    second: Terrain Tiles (1)_36
+  - first:
+      213: -1923114791001602013
+    second: Terrain Tiles (1)_37
+  - first:
+      213: -1809542915981054463
+    second: Terrain Tiles (1)_38
+  - first:
+      213: -8245394145554968802
+    second: Terrain Tiles (1)_39
+  - first:
+      213: -400108874432479658
+    second: Terrain Tiles (1)_40
+  - first:
+      213: -8874469193021991640
+    second: Terrain Tiles (1)_41
+  - first:
+      213: -5965136117785356188
+    second: Terrain Tiles (1)_42
+  - first:
+      213: 3877054610197299940
+    second: Terrain Tiles (1)_43
+  - first:
+      213: 3905709433098459246
+    second: Terrain Tiles (1)_44
+  - first:
+      213: 8178613980227594494
+    second: Terrain Tiles (1)_45
+  - first:
+      213: 3573888735600384961
+    second: Terrain Tiles (1)_46
+  - first:
+      213: 1013933359891613485
+    second: Terrain Tiles (1)_47
+  - first:
+      213: 3039846849425244471
+    second: Terrain Tiles (1)_48
+  - first:
+      213: 7542215300759285942
+    second: Terrain Tiles (1)_49
+  - first:
+      213: 9161144797507790684
+    second: Terrain Tiles (1)_50
+  - first:
+      213: 8414629000879255066
+    second: Terrain Tiles (1)_51
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +187,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +196,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,10 +226,337 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112f0763d424c6f0800000000000000
+      internalID: -665366354558246634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb23c74910b45cb20800000000000000
+      internalID: 3154009584201118398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ffb145f197ab3d0800000000000000
+      internalID: -3190104210576507082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1060630ba7902e40800000000000000
+      internalID: 5629666294964969500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f4e7bb669041c0800000000000000
+      internalID: -4521448636489075502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1334460dcedb810800000000000000
+      internalID: 1782841407288062453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 444
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b36a3a192de19dc0800000000000000
+      internalID: -3633862663521803338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e0d88ba154b01c0800000000000000
+      internalID: -4536456218577924516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891910e072a46d5d0800000000000000
+      internalID: -3038159367015657064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3a4509acf59570800000000000000
+      internalID: 8472956076835879727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3d85ce37c70680800000000000000
+      internalID: -8788837075373965796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2653bf70c7d7150800000000000000
+      internalID: 5871985862882190011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca13b80cd0ae920800000000000000
+      internalID: 3020241620725509154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 376
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a7280c504cad90800000000000000
+      internalID: -7085217349742647993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain Tiles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03982151fe7e262d0800000000000000
+      internalID: -3286809763990304464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
